@@ -75,7 +75,7 @@
     "azure-arm-recoveryservices": "^2.0.1-preview",
     "azure-arm-recoveryservices-siterecovery": "^2.0.0-preview",
     "azure-arm-recoveryservicesbackup": "^2.0.1-preview",
-    "azure-arm-rediscache": "^2.0.0-preview",
+    "azure-arm-rediscache": "^3.0.0",
     "azure-arm-relay": "^2.0.0-preview",
     "azure-arm-resource": "^3.1.1-preview",
     "azure-arm-resourcehealth": "^1.0.0-preview",
