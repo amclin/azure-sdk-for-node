@@ -37,7 +37,7 @@
     "azure-arm-batch": "^3.1.0",
     "azure-arm-billing": "^2.1.0",
     "azure-arm-cdn": "^4.0.1",
-    "azure-arm-cognitiveservices": "^2.1.0",
+    "azure-arm-cognitiveservices": "^3.0.0",
     "azure-arm-commerce": "^2.0.0",
     "azure-arm-compute": "^5.1.1",
     "azure-arm-consumption": "^4.0.0",
